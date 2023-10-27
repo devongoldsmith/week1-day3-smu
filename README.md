@@ -1,15 +1,15 @@
-# week1-day3-smu
-# Who am i? 
-**#DeVon Goldsmith**
+
+# Who am I? 
+*DeVon Goldsmith*
 
 ## What is my background? 
-*I work in Tech as a technical program manager*
+*I work in Tech as a technical program manager*.
 
-# What are my career goals?
-*To become a leader in data for data engineering teams*
-# Why did you choose FinTech as a career path?
+## What are my career goals?
+*To become a Fintech Innovator that changes the game, so I don't have to have a career.*
 
-*I didnt choose FinTech, Fintech choose me.*
-! [Alt Text](![Alt text](image.png)) 
+## Why did you choose FinTech as a career path?
+*I didn't choose FinTech, Fintech chose me.*
 
-![](images/FB_IMG_1463848598433.jpg)
+
+![devon goldsmith diva football](images/FB_IMG_1463848598433.jpg)
